@@ -51,6 +51,7 @@ class ViewController: UIViewController {
             if let errorMessage = invalidName(textName)
             {
                 lblErrorName.text = errorMessage
+               // lblErrorName.textColor = UIColor.red
                 lblErrorName.isHidden = false
             }
             else
