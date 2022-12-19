@@ -156,6 +156,7 @@
                         <outlet property="lblErrorMobileNo" destination="wOp-0J-nxu" id="VHs-1q-hWx"/>
                         <outlet property="lblErrorName" destination="fHF-xN-fQT" id="gRK-ep-00s"/>
                         <outlet property="lblErrorPassword" destination="1Pb-Op-Sdf" id="cpz-RV-ljP"/>
+                        <outlet property="saveButton" destination="Xy5-Hy-9gO" id="8IV-UB-ObK"/>
                         <outlet property="txtEmail" destination="aBL-TK-I2u" id="BvM-gq-Iaj"/>
                         <outlet property="txtMobileNo" destination="OJ7-yW-DRD" id="TZK-BD-pQC"/>
                         <outlet property="txtName" destination="Jwh-O7-nGe" id="1B9-mH-t8C"/>
